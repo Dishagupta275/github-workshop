@@ -1,0 +1,4 @@
+repository name is project name
+it stores files related to the project
+workspace,staging,local repository in computer
+remote repository in central
