@@ -4,4 +4,5 @@ workspace,staging,local repository in computer
 remote repository in central
 working tree to staging area (git add)
 to update files in GitHub we use (git add file name)
-to restore GitHub file into working directory we use git --restore filename
+to restore previous file into working directory we use git --restore filename
+we can directly edit in git hub and commit changes to get these changes in local directory(working tree) we use git pull command
