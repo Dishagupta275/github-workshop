@@ -6,4 +6,4 @@ working tree to staging area (git add)
 to update files in GitHub we use (git add file name)
 to restore previous file into working directory we use git --restore filename
 we can directly edit in git hub and commit changes to get these changes in local directory(working tree) we use git pull command
-if changes are made in both local repo and globally we will get error while trying to push as all the changes made globally are not present in my working tree so we need to use git pull first
+if changes are made in both local repo and globally we will get error while trying to push as all the changes made globally are not present in my working tree so we need to use git pull first if we get error we use :wq
